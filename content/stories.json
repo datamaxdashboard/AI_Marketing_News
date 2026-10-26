@@ -1,0 +1,39 @@
+{
+  "site": {
+    "name": "ИИ в маркетинге",
+    "tagline": "AIxMarketing by Artics",
+    "mode": "public",
+    "base_path": "/"
+  },
+  "categories": [
+    {
+      "id": "cjm",
+      "name": "ИИ и Customer Journey",
+      "short": "Customer Journey",
+      "number": "01",
+      "description": "Поиск, сравнение, выбор, покупка и клиентский опыт"
+    },
+    {
+      "id": "marketing",
+      "name": "ИИ в работе маркетолога",
+      "short": "Практика маркетинга",
+      "number": "02",
+      "description": "Performance, контент, аналитика, исследования и автоматизация"
+    },
+    {
+      "id": "cases",
+      "name": "Кейсы и аналитика",
+      "short": "Кейсы и аналитика",
+      "number": "03",
+      "description": "Внедрения, эксперименты, измеренные результаты и ограничения"
+    },
+    {
+      "id": "legal",
+      "name": "Рынок и регулирование",
+      "short": "Право и рынок",
+      "number": "04",
+      "description": "Правила, права, данные, риски и изменения рынка"
+    }
+  ],
+  "stories": []
+}
