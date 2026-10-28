@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://datamaxdashboard.github.io/AI_Marketing_News/sitemap.xml
